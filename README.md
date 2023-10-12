@@ -1,5 +1,8 @@
 # bitcoin-organization-builder
-Application for Business or personal (no-code) use, with the help of which you can create and program a system of decentralized (and not only) finance for business or personal capital.
+The Bitcoin-based Organization Builder represents a pioneering framework designed to establish a novel breed of organizations, capitalizing on Bitcoin technology and harnessing Bitcoin as a decentralized financial system.
+In its inaugural phase of development, this framework is comprehensively equipped to cater to the fundamental prerequisites of business proprietors embarking on entrepreneurial ventures.
+Gradually, Starwee will forge the indispensable tools essential for the seamless integration of Bitcoin into everyday business systems and beyond. In the imminent future, we will unveil a roadmap, elucidating our path and elucidating the intricacies of the tools we are poised to create.
+For now, let's delve into the specifics of the current segment of our development:
 
 
 **Stages of organizational development**
