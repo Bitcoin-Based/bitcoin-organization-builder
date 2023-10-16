@@ -14,10 +14,10 @@ Is created by the founders at the time of its creation.
 It includes the following :
 
 1.1 scripts for distributing financial flow to treasuries (Img 1)
-   1.1.1  modified. The financial flow continues to move only with a multisignature
+ 1.1.1  modified. The financial flow continues to move only with a multisignature
 
 1.2 time lock script
-   1.2.1  modified. Programming the time and part of the opening
+ 1.2.1  modified. Programming the time and part of the opening
       
 1.3  multisignature balance for voting on expenses from the bank
    
