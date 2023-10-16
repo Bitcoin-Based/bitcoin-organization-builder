@@ -7,27 +7,24 @@ For now, let's delve into the specifics of the current segment of our developmen
 
 functions/screens/smart contracts:  - SC №:
 
-1.  DS department (owners contracts)
+##1.  DS department (owners contracts)
 
 Digital statute. A digital statute of an organization.
 Is created by the founders at the time of its creation.
 It includes the following :
 
-   1.1 scripts for distributing financial flow to treasuries (Img 1)
-   
-      1.1.1  modified. The financial flow continues to move only with a multisignature
+1.1 scripts for distributing financial flow to treasuries (Img 1)
+   1.1.1  modified. The financial flow continues to move only with a multisignature
+
+1.2 time lock script
+   1.2.1  modified. Programming the time and part of the opening
       
-   1.2 time lock script
+1.3  multisignature balance for voting on expenses from the bank
    
-      1.2.1  modified. Programming the time and part of the opening
-      
-   1.3  multisignature balance for voting on expenses from the bank
+1.4 Conditions for leaving the organization
    
-   1.4 Conditions for leaving the organization
-   
-   1.5 Programming of tax accounts (formula of profit and taxes in the state where      the organization is founded)
-   
-      1.5.1 mod. Integration of the classical (Fiat) financial system
+1.5 Programming of tax accounts (formula of profit and taxes in the state where      the organization is founded)
+   1.5.1 mod. Integration of the classical (Fiat) financial system
 
 
 
