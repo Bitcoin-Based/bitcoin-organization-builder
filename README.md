@@ -7,7 +7,7 @@ For now, let's delve into the specifics of the current segment of our developmen
 
 functions/screens/smart contracts:  - SC №:
 
-##1.  DS department (owners contracts)
+## 1.  DS department (owners contracts)
 
 Digital statute. A digital statute of an organization.
 Is created by the founders at the time of its creation.
