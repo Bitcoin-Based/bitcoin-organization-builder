@@ -44,3 +44,34 @@ It includes the following :
 
 
 
+ 2. HR department (employees contracts)
+
+2.1 Salaried projects (DLC for salary with an oracle on the timeline + synchronization of committees with dev dep)
+It works on the basis of DID, which creates an employee profile to which they are recorded:
+time log from the time tracker
+commits from gitHub made by the employee
+An organization creates contract terms, for example:
+To receive a salary (a transaction from the salary treasury that is programmed with an overgrown DLC), an employee must record 100 labor hours and make 30 commits
+To get a bonus in the amount of X, 140 hours and 50 commits are required
+DORSI ( Decentralized Open-source Rating System Incentives)
+
+
+2.2 Contracts (dlc for a fix with a human oracle on the qa onboard)
+2.3 DORSI
+2.4 SEMI
+
+3. DEVS dep (production devs contracts (employees ))
+
+3.1 DID NOSTR based (nostr linkedin) / (DID CV BTC)
+3.2 creation of the tokens (done by the core team as part of the development movement*)
+3.3 production of the tasks = committees
+
+The development movement is written as a manifesto and signed by the owners. It is being revised.
+
+4. SALES department (customer contracts): 
+   4.1 a simple contract for the purchase of labor hours
+   4.2 a contract for a subscription to a product or service (DLC)
+
+
+
+
