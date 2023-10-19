@@ -5,6 +5,19 @@ Gradually, Starwee will forge the indispensable tools essential for the seamless
 For now, let's delve into the specifics of the current segment of our development:
 
 
+**Stages of organizational development**
+![image](https://github.com/tetakta/tetakta/blob/45fd21fe5d4d2be3839eaefadbe1f09b00ad1fc5/img/Classic%20organization.png)
+
+
+
+![image](https://github.com/tetakta/tetakta/blob/90f1a13d77e2f96b5876515c11692ed8c473f947/img/bitcoin%20power.png)
+
+**Stages of organizational development for a Bitcoin-based organization** 
+![image](https://github.com/tetakta/tetakta/blob/45fd21fe5d4d2be3839eaefadbe1f09b00ad1fc5/img/Bitcoin%20based%20organization.png)
+
+
+
+
 functions/screens/smart contracts:  - SC №:
 
 ## 1.  DS department (owners contracts)
@@ -31,12 +44,3 @@ It includes the following :
 
 
 
-**Stages of organizational development**
-![image](https://github.com/tetakta/tetakta/blob/45fd21fe5d4d2be3839eaefadbe1f09b00ad1fc5/img/Classic%20organization.png)
-
-
-
-![image](https://github.com/tetakta/tetakta/blob/90f1a13d77e2f96b5876515c11692ed8c473f947/img/bitcoin%20power.png)
-
-**Stages of organizational development for a Bitcoin-based organization** 
-![image](https://github.com/tetakta/tetakta/blob/45fd21fe5d4d2be3839eaefadbe1f09b00ad1fc5/img/Bitcoin%20based%20organization.png)
