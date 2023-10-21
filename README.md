@@ -63,14 +63,21 @@ DORSI ( Decentralized Open-source Rating System Incentives)
 3. DEVS dep (production devs contracts (employees ))
 
 3.1 DID NOSTR based (nostr linkedin) / (DID CV BTC)
+
 3.2 creation of the tokens (done by the core team as part of the development movement*)
+
 3.3 production of the tasks = committees
+
 
 The development movement is written as a manifesto and signed by the owners. It is being revised.
 
-4. SALES department (customer contracts): 
+
+4. SALES department (customer contracts):
+
    4.1 a simple contract for the purchase of labor hours
+   
    4.2 a contract for a subscription to a product or service (DLC)
+   
 
 
 
