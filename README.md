@@ -50,14 +50,17 @@ It includes the following :
 
 It works on the basis of DID, which creates an employee profile to which they are recorded:
 
--- time log from the time tracker
+- time log from the time tracker
 
--- commits from gitHub made by the employee
+- commits from gitHub made by the employee
 
 An organization creates contract terms, for example:
-To receive a salary (a transaction from the salary treasury that is programmed with an overgrown DLC), an employee must record 100 labor hours and make 30 commits
-To get a bonus in the amount of X, 140 hours and 50 commits are required
-DORSI ( Decentralized Open-source Rating System Incentives)
+
+1. To receive a salary (a transaction from the salary treasury that is programmed with an overgrown DLC), an employee must record 100 labor hours and make 30 commits
+
+2. To get a bonus in the amount of X, 140 hours and 50 commits are required
+
+3. DORSI ( Decentralized Open-source Rating System Incentives)
 
 
 2.2 Contracts (dlc for a fix with a human oracle on the qa onboard)
