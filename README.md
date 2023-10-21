@@ -47,9 +47,13 @@ It includes the following :
  2. HR department (employees contracts)
 
 2.1 Salaried projects (DLC for salary with an oracle on the timeline + synchronization of committees with dev dep)
+
 It works on the basis of DID, which creates an employee profile to which they are recorded:
-time log from the time tracker
-commits from gitHub made by the employee
+
+-- time log from the time tracker
+
+-- commits from gitHub made by the employee
+
 An organization creates contract terms, for example:
 To receive a salary (a transaction from the salary treasury that is programmed with an overgrown DLC), an employee must record 100 labor hours and make 30 commits
 To get a bonus in the amount of X, 140 hours and 50 commits are required
