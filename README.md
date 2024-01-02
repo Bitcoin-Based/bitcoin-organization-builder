@@ -22,16 +22,16 @@ For now, let's delve into the specifics of the current segment of our developmen
 
 ##### Functions/Screens/Smart Contracts: - SC №:
 
-1. **DS Department (Owners Contracts)**
-   - Digital statute. A digital statute of an organization is created by the founders at the time of its creation. It includes the following:
-     - Scripts for distributing financial flow to treasuries (See Image 1)
-       - Modified. The financial flow continues to move only with a multisignature.
-     - Time lock script.
-        1.2.1 Modified. Programming the time and part of the opening.
-     - Multisignature balance for voting on expenses from the bank.
-     - Conditions for leaving the organization.
-     - Programming of tax accounts (formula of profit and taxes in the state where the organization is founded).
-       - Modified. Integration of the classical (Fiat) financial system.
+**DS Department (Owners Contracts)**
+   - 1. Digital statute. A digital statute of an organization is created by the founders at the time of its creation. It includes the following:
+     - 1.1 Scripts for distributing financial flow to treasuries (See Image 1)
+       - 1.1.1 Modified. The financial flow continues to move only with a multisignature.
+     - 1.2 Time lock script.
+       - 1.2.1 Modified. Programming the time and part of the opening.
+     - 1.3 Multisignature balance for voting on expenses from the bank.
+     - 1.4 Conditions for leaving the organization.
+     - 1.5 Programming of tax accounts (formula of profit and taxes in the state where the organization is founded).
+       - 1.5.1 Modified. Integration of the classical (Fiat) financial system.
 
 
  2. HR department (employees contracts)
