@@ -36,6 +36,7 @@ For now, let's delve into the specifics of the current segment of our developmen
 
 
 **HR Department (Employees Contracts)**
+
 2. Salaried projects (DLC for salary with an oracle on the timeline + synchronization of committees with dev dep)
        - It works on the basis of DID, which creates an employee profile to which they are recorded:
          - Time log from the time tracker.
