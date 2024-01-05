@@ -57,6 +57,10 @@ The development movement is written as a manifesto and signed by the owners. It 
 4. SALES department (customer contracts):
 - 4.1 a simple contract for the purchase of labor hours
 - 4.2 a contract for a subscription to a product or service (DLC)
+
+
+
+![image](https://github.com/Bitcoin-Based/bitcoin-organization-builder/blob/main/mvp/BoB%20v0.0.1%20scheme.jpg)
    
 
 
