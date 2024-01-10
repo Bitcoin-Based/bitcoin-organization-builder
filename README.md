@@ -1,6 +1,6 @@
 # BoB
 ## The Bitcoin-based Organization Builder
-### starwee
+### tetakta
 #### 2023
 
 Bitcoin is revolutionizing the landscape. The allure of this adventure lies in its educational voyage: no matter which path you venture down, one constant remains. Bitcoin represents the ultimate frontier and the Holy Grail that leads us toward uncovering life as it was always meant to be. Bitcoin breaks free from constraints; it resonates at the highest frequency. It's the melody of innovation. Bitcoin resides in the space between circumstances and reality, pulsating with all human emotions and actions. It is the truth that many seek.
