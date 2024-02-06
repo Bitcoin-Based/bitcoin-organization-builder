@@ -1,13 +1,8 @@
 # BoB
 ## The Bitcoin-based Organization Builder
-### tetakta
-#### 2023
 
-Bitcoin is revolutionizing the landscape. The allure of this adventure lies in its educational voyage: no matter which path you venture down, one constant remains. Bitcoin represents the ultimate frontier and the Holy Grail that leads us toward uncovering life as it was always meant to be. Bitcoin breaks free from constraints; it resonates at the highest frequency. It's the melody of innovation. Bitcoin resides in the space between circumstances and reality, pulsating with all human emotions and actions. It is the truth that many seek.
 
-The Bitcoin-based Organization Builder represents a pioneering framework designed to establish a novel breed of organizations, capitalizing on Bitcoin technology and harnessing Bitcoin as a decentralized financial system. In its inaugural phase of development, this framework is comprehensively equipped to cater to the fundamental prerequisites of business proprietors embarking on entrepreneurial ventures. Gradually, Starwee will forge the indispensable tools essential for the seamless integration of Bitcoin into everyday business systems and beyond. In the imminent future, we will unveil a roadmap, elucidating our path and elucidating the intricacies of the tools we are poised to create.
-
-For now, let's delve into the specifics of the current segment of our development:
+The Bitcoin-based Organization Builder represents a pioneering framework designed to establish a novel breed of organizations, capitalizing on Bitcoin technology and harnessing Bitcoin as a decentralized financial system. In its inaugural phase of development, this framework is comprehensively equipped to cater to the fundamental prerequisites of business proprietors embarking on entrepreneurial ventures. Gradually,  will forge the indispensable tools essential for the seamless integration of Bitcoin into everyday business systems and beyond. 
 
 **Stages of organizational development**
 ![image](https://github.com/tetakta/tetakta/blob/45fd21fe5d4d2be3839eaefadbe1f09b00ad1fc5/img/Classic%20organization.png)
