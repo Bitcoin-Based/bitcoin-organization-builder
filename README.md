@@ -14,7 +14,7 @@ BoB leverages Bitcoin's strengths to optimize financial operations, providing a 
 wallet management, transaction scripting, and multi-signature processes**
 ![image](https://github.com/Bitcoin-Based/bitcoin-organization-builder/blob/main/blueprints/BoB%20structure%20.png)
 
-## BoB: Bitcoin Organization Builder Functionalities Overview
+## How it works
 
 BoB is designed to provide a suite of Bitcoin-based tools for organizational use, focusing on:
 
