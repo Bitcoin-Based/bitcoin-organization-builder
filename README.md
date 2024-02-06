@@ -25,7 +25,7 @@ BoB is designed to provide a suite of Bitcoin-based tools for organizational use
 - **Multi-Signature Processes:** Incorporates multi-signature authorization to enhance security, requiring multiple approvals for transactions, and supports various organizational governance models with flexible multi-signature setups.
 
 
-![image](https://github.com/tetakta/tetakta/blob/90f1a13d77e2f96b5876515c11692ed8c473f947/img/bitcoin%20power.png)
+![image](https://github.com/Bitcoin-Based/bitcoin-organization-builder/blob/main/mvp/BoB%20v0.0.1%20scheme.jpg)
 
 **Stages of organizational development for a Bitcoin-based organization** 
 ![image](https://github.com/tetakta/tetakta/blob/45fd21fe5d4d2be3839eaefadbe1f09b00ad1fc5/img/Bitcoin%20based%20organization.png)
@@ -73,7 +73,7 @@ The development movement is written as a manifesto and signed by the owners. It 
 
 
 
-![image](https://github.com/Bitcoin-Based/bitcoin-organization-builder/blob/main/mvp/BoB%20v0.0.1%20scheme.jpg)
+![image](https://github.com/tetakta/tetakta/blob/90f1a13d77e2f96b5876515c11692ed8c473f947/img/bitcoin%20power.png)
    
 
 
