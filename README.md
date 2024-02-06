@@ -1,7 +1,7 @@
 # BoB v0.1
 ## Bitcoin-based Organization Builder
 
-BoB (Bitcoin Organization Builder) focuses on enhancing organizational finance via the Bitcoin blockchain, promoting security, transparency, and efficiency:
+BoB focuses on enhancing organizational finance via the Bitcoin blockchain, promoting security, transparency, and efficiency:
 
 - **Transparency:** Utilizes the Bitcoin mainnet for an open, verifiable transaction record, ensuring visibility for authorized stakeholders.
 - **Security:** Emphasizes strong security with multi-signature authorization, time-locked contracts, and a Masterkey system for secure signature management, potentially accessible via a mobile app.
