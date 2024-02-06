@@ -10,7 +10,8 @@ BoB (Bitcoin Organization Builder) focuses on enhancing organizational finance v
 BoB leverages Bitcoin's strengths to optimize financial operations, providing a secure and transparent platform for organizational finance.
 
 
-**Stages of organizational development**
+**Define the functionalities: 
+wallet management, transaction scripting, and multi-signature processes**
 ![image](https://github.com/tetakta/tetakta/blob/45fd21fe5d4d2be3839eaefadbe1f09b00ad1fc5/img/Classic%20organization.png)
 
 ![image](https://github.com/tetakta/tetakta/blob/90f1a13d77e2f96b5876515c11692ed8c473f947/img/bitcoin%20power.png)
