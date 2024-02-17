@@ -24,7 +24,7 @@ BoB is designed to provide a suite of Bitcoin-based tools for organizational use
 
 - **Multi-Signature Processes:** Incorporates multi-signature authorization to enhance security, requiring multiple approvals for transactions, and supports various organizational governance models with flexible multi-signature setups.
 
-
+**Description paper:** [BoBv0.1.2](https://github.com/Bitcoin-Based/bitcoin-organization-builder/blob/main/doc/BOB%20v0.1.2.pdf) 
 ![image](https://github.com/Bitcoin-Based/bitcoin-organization-builder/blob/main/mvp/BoB%20v0.0.1%20scheme.jpg)
 
 **Complete diagram of the system components** 
