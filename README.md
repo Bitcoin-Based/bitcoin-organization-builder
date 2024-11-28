@@ -2,7 +2,7 @@
 ## Bitcoin-based Organization Builder
 
 
-A revolutionary framework for creating next-generation management systems where Bitcoin is at the core of operations.
+A framework for creating next-generation management systems where Bitcoin is at the core of operations.
 
 Key Focus Areas:
 
