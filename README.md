@@ -1,18 +1,17 @@
-# BoB v0.1
+# BoB v0.2
 ## Bitcoin-based Organization Builder
 
-BoB focuses on enhancing organizational finance via the Bitcoin blockchain, promoting security, transparency, and efficiency:
 
-- **Transparency:** Utilizes the Bitcoin mainnet for an open, verifiable transaction record, ensuring visibility for authorized stakeholders.
-- **Security:** Emphasizes strong security with multi-signature authorization, time-locked contracts, and a Masterkey system for secure signature management, potentially accessible via a mobile app.
-- **Efficiency:** Streamlines financial processes through automated scripts, facilitating complex wallet systems for agile fund management.
+A revolutionary framework for creating next-generation management systems where Bitcoin is at the core of operations.
 
-BoB leverages Bitcoin's strengths to optimize financial operations, providing a secure and transparent platform for organizational finance.
+Key Focus Areas:
 
+- Core Team/Owners: Tools to manage ownership, decision-making, and governance seamlessly.
+- Team/Employees: Integrate Bitcoin into payroll and incentivize contributions transparently.
+- Clients/Customers: Enable trust and efficiency with Bitcoin-based payments and interactions.
 
-**Define the functionalities: 
-wallet management, transaction scripting, and multi-signature processes**
-![image](https://github.com/Bitcoin-Based/bitcoin-organization-builder/blob/main/blueprints/BoB%20structure%20.png)
+Bitcoin Organization Builder A framework for building management systems 2.0 for a new generation of organizations. 
+Where finance in the form of bitcoin will be an integral part of them. 
 
 ## How it works
 
