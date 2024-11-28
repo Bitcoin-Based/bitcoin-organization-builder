@@ -13,7 +13,7 @@ Key Focus Areas:
 Bitcoin Organization Builder A framework for building management systems 2.0 for a new generation of organizations. 
 Where finance in the form of bitcoin will be an integral part of them. 
 
-## How it works
+## How it works: **Core Team/Owners**
 
 BoB is designed to provide a suite of Bitcoin-based tools for organizational use, focusing on:
 
